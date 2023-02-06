@@ -2,11 +2,9 @@
   "name": "api.avatar",
   "version": "0.1.0",
   "private": true,
+  
   "scripts": {
-    "dev": "next dev",
-    "vercel-build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "vercel-build": "next dev"
   },
   "dependencies": {
     "@next/font": "13.1.6",
